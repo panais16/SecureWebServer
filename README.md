@@ -5,4 +5,8 @@ How to Build & Run:
 
 
 test from wentao
+<<<<<<< HEAD
 test from meng
+=======
+Hi~ o(*￣▽￣*)ブ
+>>>>>>> 61e0377a83be2c345d123a53bcc33464f93fedc8
