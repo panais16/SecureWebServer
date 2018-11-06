@@ -4,9 +4,6 @@ How to Build & Run:
 3) npm start
 
 
-test from wentao
-<<<<<<< HEAD
-test from meng
-=======
+test from wentaoQAQ
+test from meng 
 Hi~ o(*￣▽￣*)ブ
->>>>>>> 61e0377a83be2c345d123a53bcc33464f93fedc8
